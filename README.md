@@ -1,6 +1,3 @@
-https://margushanni.github.io/portfoolio/
-
-https://github.com/margushanni/portfoolio
 
 # Margus – isiklik veebileht
 
@@ -50,6 +47,7 @@ Veebilehel tutvustan ennast ning toon välja kolm peamist hobi ja huvi:
 
 * [GitHub](https://github.com/margushanni)
 * [Strava](https://www.strava.com/athletes/16647164)
+* https://github.com/margushanni/portfoolio
 
 ## Autor
 
