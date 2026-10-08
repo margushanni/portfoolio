@@ -1,3 +1,6 @@
+https://margushanni.github.io/portfoolio/
+https://github.com/margushanni/portfoolio
+
 # Margus – isiklik veebileht
 
 See projekt on loodud koolitöö raames ning tegemist on lihtsa isikliku veebilehega. Veebileht tutvustab mind, minu huvisid ja hobisid ning sisaldab kasulikke linke minu teistele profiilidele.
